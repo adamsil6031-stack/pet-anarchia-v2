@@ -1,0 +1,11 @@
+{
+  "key.category.petmod.main": "Pet Swap",
+  "key.petmod.open_gui": "Open Pet Swap menu",
+  "screen.petmod.title": "Pet Swap (visual only)",
+  "screen.petmod.holding": "Holding: %s",
+  "screen.petmod.to_pet": "Turn held item into a pet",
+  "screen.petmod.restore": "Restore original look",
+  "screen.petmod.empty_hand": "You are not holding anything.",
+  "screen.petmod.swapped": "Held item now looks like a pet (only you can see it).",
+  "screen.petmod.restored": "Original look restored."
+}

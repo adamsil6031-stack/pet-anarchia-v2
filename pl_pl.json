@@ -1,0 +1,11 @@
+{
+  "key.category.petmod.main": "Pet Swap",
+  "key.petmod.open_gui": "Otworz menu Pet Swap",
+  "screen.petmod.title": "Pet Swap (tylko wizualnie)",
+  "screen.petmod.holding": "W rece: %s",
+  "screen.petmod.to_pet": "Zamien trzymany przedmiot na peta",
+  "screen.petmod.restore": "Przywroc oryginalny wyglad",
+  "screen.petmod.empty_hand": "Nie trzymasz niczego w rece.",
+  "screen.petmod.swapped": "Trzymany przedmiot wyglada teraz jak pet (widzisz to tylko Ty).",
+  "screen.petmod.restored": "Przywrocono oryginalny wyglad."
+}

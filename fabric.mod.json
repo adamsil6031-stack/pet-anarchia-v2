@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "petmod",
+  "version": "${version}",
+  "name": "Pet Swap (wizualny)",
+  "description": "Klawisz [ otwiera GUI, w ktorym zmieniasz wyglad trzymanego przedmiotu na peta. Tylko po stronie klienta.",
+  "authors": [],
+  "license": "CC0-1.0",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.petmod.PetModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
