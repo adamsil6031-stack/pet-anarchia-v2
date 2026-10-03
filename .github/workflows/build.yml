@@ -26,4 +26,3 @@ jobs:
         with:
           name: petmod-jar
           path: build/libs/*.jar
-		
